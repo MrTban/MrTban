@@ -1,6 +1,7 @@
 <div>
 <h1> !Hola 👋¡ soy Esteban </h1>
 <h3>Armenia, Quindio, Colombia  🌎</h3>
+<br />
 <h2>Sobre mi:</h2>
 <p>Un entusiasta de la tecnología, los videojuegos 🎮 y la programación 💻. He estado experimentando con diferentes tecnologías en mis proyectos personales, y disfruto explorando nuevas formas de implementar soluciones. Aunque no soy un experto en programación, tengo experiencia y siempre estoy buscando aprender más. Además, me considero una persona autodidacta y aprendo rápido 🚀.
 
@@ -8,24 +9,19 @@ En este momento, estoy planeando mi página personal y portafolio, donde voy a m
 
 Si estás interesado en mi trabajo, ¡no dudes en revisar mi perfil de GitHub! Ahí encontrarás algunos de mis proyectos y contribuciones. Si tienes alguna pregunta o quieres decir hola, no dudes en ponerte en contacto conmigo.</p>
 
-## 🌐 Redes:
-  <a href="https://www.instagram.com/mr_tban/"><img src="https://res.cloudinary.com/dwup9qwkg/image/upload/v1680813674/instagram_1_db1o9z.png" alt="ig"/></a>
-  <a href="https://www.linkedin.com/in/mrtban/"><img src="https://res.cloudinary.com/dwup9qwkg/image/upload/v1680813461/linkedin_32px_wcvn4t.png" alt="in"/></a>
-
-
-## Me gusta:
+<br />
+<h3>Me gusta:</h3>
   <p>El frío ❄</p>
   <p>Pizza 🍕</p>
   <p>Café ☕</p>
 
-## Hobbies:
+<h3>Hobbies:</h3>
   <p>Videojuegos 🎮</p>
   <p>Series/Peliculas 💻</p>
   
 </div>
 
-
-
+##
 ```js
 const MrTban = {
   pronouns: 'he' || 'him',
@@ -42,21 +38,12 @@ const MrTban = {
   }
 };
 ```
+##
 
-<!--
-**MrTban/MrTban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conecta conmigo! :
+  <a href="https://www.instagram.com/mr_tban/"><img src="https://res.cloudinary.com/dwup9qwkg/image/upload/v1680813674/instagram_1_db1o9z.png" alt="ig"/></a>
+  <a href="https://www.linkedin.com/in/mrtban/"><img src="https://res.cloudinary.com/dwup9qwkg/image/upload/v1680813461/linkedin_32px_wcvn4t.png" alt="in"/></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 💻 Tech Stack:
 
