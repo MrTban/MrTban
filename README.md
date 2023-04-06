@@ -1,4 +1,8 @@
-### ¡Hey 👋! Soy Esteban 🏻‍💻
+### !Hola 👋, soy Esteban(pero todos me dicen tban), un entusiasta de la tecnología, los videojuegos 🎮 y la programación 💻. He estado experimentando con diferentes tecnologías en mis proyectos personales, y disfruto explorando nuevas formas de implementar soluciones. Aunque no soy un experto en programación, tengo experiencia y siempre estoy buscando aprender más. Además, me considero una persona autodidacta y aprendo rápido 🚀.
+
+En este momento, estoy planeando mi página personal y portafolio, donde voy a mostrar mis proyectos y habilidades como desarrollador. Estoy muy emocionado por este proyecto, ya que me permitirá no solo mostrar mi trabajo, sino también aprender nuevas tecnologías y técnicas. Además, estoy disponible para aprender cosas nuevas y estoy abierto a trabajar en proyectos emocionantes y desafiantes.
+
+Si estás interesado en mi trabajo, ¡no dudes en revisar mi perfil de GitHub! Ahí encontrarás algunos de mis proyectos y contribuciones. Si tienes alguna pregunta o quieres decir hola, no dudes en ponerte en contacto conmigo.
 
 <!--
 **MrTban/MrTban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
