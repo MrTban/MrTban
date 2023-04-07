@@ -74,8 +74,12 @@ const MrTban = {
   <img src="https://camo.githubusercontent.com/22547aa007860433c23771dfd59d184297d9433adcf3082be8515a28a16cd875/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" alt="vercel"/>
 </div>
 
-##
+## 🤝🏼 Support Me:
 
-<a href="https://www.buymeacoffee.com/mrtbandevh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
+<div class='flex flex-wrap'>
+  <a href='https://www.paypal.com/paypalme/MrTban' target='_blank'><img height='60' style='text: right; border:0px; height:40px !important; width: 150px !important;' src='https://res.cloudinary.com/dwup9qwkg/image/upload/v1680886404/paypal_bxsazq.png' border='0' alt='Buy Me a Coffee' /></a>
+  <a href="https://www.buymeacoffee.com/mrtbandevh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
+  <a href='https://ko-fi.com/I3I6K6LSC' target='_blank'><img height='60' style='text: right; border:0px; height:40px !important; width: 150px !important;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  
+</div>
 
