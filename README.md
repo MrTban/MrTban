@@ -8,8 +8,13 @@
 En este momento, estoy planeando mi página personal y portafolio, donde voy a mostrar mis proyectos y habilidades como desarrollador. Estoy muy emocionado por este proyecto, ya que me permitirá no solo mostrar mi trabajo, sino también aprender nuevas tecnologías y técnicas. Además, estoy disponible para aprender cosas nuevas y estoy abierto a trabajar en proyectos emocionantes y desafiantes.
 
 Si estás interesado en mi trabajo, ¡no dudes en revisar mi perfil de GitHub! Ahí encontrarás algunos de mis proyectos y contribuciones. Si tienes alguna pregunta o quieres decir hola, no dudes en ponerte en contacto conmigo.</p>
-
-<br />
+  
+<h2>Algunos de mis conocimientos los adquirí de:</h2>
+  <img src="https://camo.githubusercontent.com/043a18274b7565d5eaf0645e255a98ff44b8b55156fbbb2145560ed149ad45e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465636164656d792d4646463045353f7374796c653d666f722d7468652d6261646765266c6f676f3d636f6465636164656d79266c6f676f436f6c6f723d314632343341" alt="codecademi"/>
+  <img src="https://camo.githubusercontent.com/a45f0bb70e71160241656c58a5921103d3ae7c1ad7855efb5434d92861fc986b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726565636f646563616d702d2532333132332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66726565636f646563616d70266c6f676f436f6c6f723d677265656e" alt="freecodecamp"/>
+  
+  ##
+  
 <h3>Me gusta:</h3>
   <p>El frío ❄</p>
   <p>Pizza 🍕</p>
@@ -38,6 +43,9 @@ const MrTban = {
   }
 };
 ```
+
+<img src="https://camo.githubusercontent.com/a0484e6383e852e622da1e934b7724921ab9b69d69246d90f899424b01f6deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="vsc"/>
+
 ##
 
 ## Conecta conmigo! :
