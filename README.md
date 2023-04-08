@@ -3,7 +3,8 @@
 <h3>Armenia, Quindio, Colombia  🌎</h3>
 <br />
 <h2>Sobre mi:</h2>
-<p>Un entusiasta de la tecnología, los videojuegos 🎮 y la programación 💻. He estado experimentando con diferentes tecnologías en mis proyectos personales, y disfruto explorando nuevas formas de implementar soluciones. No soy un experto en programación y siempre estoy buscando aprender más. Además, me considero una persona autodidacta y aprendo rápido 🚀.
+<p>Soy entusiasta de la tecnología, los videojuegos 🎮 y la programación 💻 full-stack enfocado en front-end con manejo de JavaScript, React, Redux, CSS, HTML, Tailwind, Module CSS, NodeJs, Express, Postgres. 
+No soy un experto en programación y siempre estoy buscando aprender más. Además, me considero una persona autodidacta y aprendo rápido 🚀. Como líder de equipo, me he destacado por mi capacidad para trabajar colaborativamente y generar un ambiente de trabajo agradable, en el que mis compañeros se sientan valorados y motivados. Me gusta escuchar y ayudar a mi equipo en cualquier tarea que se presente, para alcanzar juntos los objetivos establecidos.
 
 En este momento, estoy planeando mi página personal y portafolio, donde voy a mostrar mis proyectos y habilidades como desarrollador. Estoy muy emocionado por este proyecto, ya que me permitirá no solo mostrar mi trabajo, sino también aprender nuevas tecnologías y técnicas. Además, estoy disponible para aprender cosas nuevas y estoy abierto a trabajar en proyectos emocionantes y desafiantes.
     
