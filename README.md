@@ -90,9 +90,9 @@ const MrTban = {
 ## 🤝🏼 Support Me:
 
 <div class='flex flex-wrap'>
-  <a href='https://www.paypal.com/paypalme/MrTban' target='_blank'><img height='60' style='text: right; border:0px; height:40px !important; width: 150px !important;' src='https://res.cloudinary.com/dwup9qwkg/image/upload/v1680886404/paypal_bxsazq.png' border='0' alt='Buy Me a Coffee' /></a>
+<!--   <a href='https://www.paypal.com/paypalme/MrTban' target='_blank'><img height='60' style='text: right; border:0px; height:40px !important; width: 150px !important;' src='https://res.cloudinary.com/dwup9qwkg/image/upload/v1680886404/paypal_bxsazq.png' border='0' alt='Buy Me a Coffee' /></a> -->
   <a href="https://www.buymeacoffee.com/mrtbandevh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
-  <a href='https://ko-fi.com/I3I6K6LSC' target='_blank'><img height='60' style='text: right; border:0px; height:40px !important; width: 150px !important;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<!--   <a href='https://ko-fi.com/I3I6K6LSC' target='_blank'><img height='60' style='text: right; border:0px; height:40px !important; width: 150px !important;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
   
 </div>
 
