@@ -34,7 +34,7 @@ const MrTban = {
     languages: [ "JavaScript" ],
     database: [ "PostgreSQL" ],
     backEnd: [ "NodeJs", "Express", "Sequelize" ],
-    frontEnd: [ "React", "Redux", "Hooks", "Tailwind", "CSS modules" ],
+    frontEnd: [ "React", "Redux", "Tailwind", "CSS modules" ],
     deploy: [ "Vercel", "Railway" ],
     comingSoon: [ "Material UI", "Framer Motion" ]
   },
