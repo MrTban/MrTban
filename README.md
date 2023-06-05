@@ -26,9 +26,9 @@ const MrTban = {
     languages: [ "JavaScript" ],
     database: [ "PostgreSQL" ],
     backEnd: [ "NodeJs", "Express", "Sequelize" ],
-    frontEnd: [ "React", "Redux", "Tailwind", "CSS modules" ],
-    deploy: [ "Vercel", "Railway" ],
-    comingSoon: [ "Material UI", "Framer Motion" ]
+    frontEnd: [ "React", "Redux", "Tailwind", "Next Js" ],
+    deploy: [ "Vercel", "Netlify", "Railway" ],
+    comingSoon: [ "Reac Native", "Material UI", "Framer Motion" ]
   },
   contact: {
     email: "mrtban.dev@gmail.com"
