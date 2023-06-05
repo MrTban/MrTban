@@ -28,7 +28,7 @@ const MrTban = {
     backEnd: [ "NodeJs", "Express", "Sequelize" ],
     frontEnd: [ "React", "Redux", "Tailwind", "Next Js" ],
     deploy: [ "Vercel", "Netlify", "Railway" ],
-    comingSoon: [ "Reac Native", "Material UI", "Framer Motion" ]
+    comingSoon: [ "React Native", "Material UI", "Framer Motion" ]
   },
   contact: {
     email: "mrtban.dev@gmail.com"
