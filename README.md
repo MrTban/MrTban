@@ -1,4 +1,4 @@
-<div>
+<!-- <div>
 <h1> !Hola 👋¡ soy Esteban </h1>
 <h3>Armenia, Quindio, Colombia  🌎</h3>
 <br />
@@ -14,17 +14,15 @@ No soy un experto en programación y siempre estoy buscando aprender más. Adem�
 <h3>Hobbies:</h3>
 <p>Videojuegos 🎮</p>
 <p>Series/Peliculas 💻</p>
-</div>
+</div> 
 
-##
+## -->
 ```js
 const MrTban = {
   pronouns: 'he' || 'him',
   code: {
-    languages: [ "JavaScript" ],
-    database: [ "PostgreSQL" ],
-    backEnd: [ "NodeJs", "Express", "Sequelize" ],
-    frontEnd: [ "React", "Redux", "Tailwind", "Next Js" ],
+    languages: [ "JavaScript", "TypeScript" ],
+    frontEnd: [ "Next Js", "React", "Redux/Toolkit", "Tailwind" ],
     deploy: [ "Vercel", "Netlify", "Railway" ],
     comingSoon: [ "React Native", "Material UI", "Framer Motion" ]
   },
@@ -37,12 +35,12 @@ const MrTban = {
 <img src="https://camo.githubusercontent.com/a0484e6383e852e622da1e934b7724921ab9b69d69246d90f899424b01f6deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="vsc"/>
 
 
-
+<!--
 ## Conecta conmigo! :
 
   <a href="https://www.linkedin.com/in/mrtban/"><img src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="in"/></a>
-    <a href="https://www.instagram.com/mrtban.dev/"><img src="https://camo.githubusercontent.com/7a705494c370a8412797521701153d2873fb39109edf80afc408efd0927ae2d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="ig"/></a>
-  <a href="mailto:mrtban.dev@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="gmail"/></a>
+    <a href="https://www.instagram.com/mrtban.dev/"><img src="https://camo.githubusercontent.com/7a705494c370a8412797521701153d2873fb39109edf80afc408efd0927ae2d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="ig"/></a> 
+  <a href="mailto:mrtban.dev@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="gmail"/></a> -->
 
 
 ## 💻 Tech Stack:
