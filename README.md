@@ -22,9 +22,9 @@ const MrTban = {
   pronouns: 'he' || 'him',
   code: {
     languages: [ "JavaScript", "TypeScript" ],
-    frontEnd: [ "Next Js", "React", "Redux/Toolkit", "Tailwind" ],
+    frontEnd: [ "Next Js", "React", "Redux/Toolkit", "Tailwind", "Material UI", "Shadcn" "Framer Motion" ],
     deploy: [ "Vercel", "Netlify", "Railway" ],
-    comingSoon: [ "React Native", "Material UI", "Framer Motion" ]
+    comingSoon: [ "React Native" ]
   },
   contact: {
     email: "mrtban.dev@gmail.com"
